@@ -23,7 +23,7 @@ from math import exp
 warnings.filterwarnings("ignore")
 
 # ── Config ───────────────────────────────────────────────────────────────────
-TEAMS_CSV   = Path("prediction_cdm\data\data\features_train.csv")###put the right path to your stats_equipe.csv file here
+TEAMS_CSV   = Path("prediction_cdm\data\data\stats_equipe.csv")###put the right path to your stats_equipe.csv file here
 MODELS_DIR  = Path("models")
 FORM_WINDOW = 5
 
